@@ -7,7 +7,7 @@ export default function App() {
       <Text>Aqui sera nosso trabalho</Text>
       <StatusBar style="auto" />
     </View>
-  );
+  );//
 }
 
 const styles = StyleSheet.create({
